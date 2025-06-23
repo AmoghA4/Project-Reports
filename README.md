@@ -1,2 +1,2 @@
 # Project-Reports
-A repository of reports on all research projects and internships I have worked on.
+This repository contains reports from research projects and internships that I have undertaken. Unless explicitly stated otherwise, all documents in this repository are original intellectual property and are protected under applicable copyright laws. Unauthorized use, reproduction, distribution, or modification of any content, in whole or in part, is strictly prohibited without the prior written consent of the respective author(s). Viewing is permitted solely for informational purposes.
